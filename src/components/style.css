@@ -1,0 +1,40 @@
+.main{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+input{
+    padding: 10px;
+}
+body{
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+}
+h3{
+    display: inline-block;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
+    flex-direction: column;
+}
+.lst{
+    display: flex;
+    gap: 10px;
+    background-color: #fff;
+    width: 50%;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+}
+button{
+    background-color: chocolate;
+    color: #fff;
+    min-width: 50px;
+    max-height: 50px;
+}
